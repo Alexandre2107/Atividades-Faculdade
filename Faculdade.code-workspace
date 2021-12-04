@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\C C# C++"
+		},
+		{
+			"path": "..\\atividade_avaliativa_lista_1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bissexto.C": "cpp",
+			"stdio.h": "c",
+			"stdlib.h": "c"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "C C# C++"
+	}
+}
